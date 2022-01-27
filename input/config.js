@@ -115,9 +115,9 @@ const addRarityPercentForLayer = (_rarityId, _layerId, _percentages) => {
  *************************************************************/
 
 // image width in pixels
-const width = 1000;
+const width = 1080;
 // image height in pixels
-const height = 1000;
+const height = 1080;
 // description for NFT in metadata file
 const description = "This is an NFT made by the coolest generative code.";
 // base url to use in metadata file
